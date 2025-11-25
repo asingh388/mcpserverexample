@@ -1,7 +1,7 @@
 The config below defines the servers used and basic instructions to start them.
 
 The repository uses a JSON structure like this:
-
+``` json
 {
     "mcpServers": {
         "mcpserverexample": {
@@ -14,3 +14,4 @@ The repository uses a JSON structure like this:
         }
     }
 }
+```
